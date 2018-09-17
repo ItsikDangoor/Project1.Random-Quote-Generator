@@ -83,7 +83,7 @@ function main() {
 
     //for the first time when the program loads the interval is set.
     //after clicking the button the interval is cleared and set again
-    intervalId = setInterval(printQuote, 8000);
+    intervalId = setInterval(printQuote, 13000);
 
     // event listener to respond to "Show another quote" button clicks.
     // when user clicks anywhere on the button, the "showAnotherQuoteClicked" is called and
