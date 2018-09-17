@@ -37,7 +37,7 @@ function printQuote() {
     //if the user clicked the button then the interval is cleared and the counter is set again
     if(showAnotherQuoteButtonClicked === true) {
         clearInterval(intervalId);
-        intervalId = setInterval(printQuote, 8000);
+        intervalId = setInterval(printQuote, 13000);
         showAnotherQuoteButtonClicked = false;
     }
 
