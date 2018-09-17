@@ -1,6 +1,6 @@
 # Random-Quote-Generator
 
-https://itsikdangoor.github.io/Project1.Random-Quote-Generator/
+https://itsikdangoor.github.io/Random-Quote-Generator/
 
 - App displays random quote each time a button is clicked.
 - After certain amount of time (8 sec) the quote randomized automatically.
